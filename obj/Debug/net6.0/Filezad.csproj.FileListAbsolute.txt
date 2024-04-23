@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\Filezad\bin\Debug\net6.0\Filezad.exe
+C:\Users\hp\source\repos\Filezad\bin\Debug\net6.0\Filezad.deps.json
+C:\Users\hp\source\repos\Filezad\bin\Debug\net6.0\Filezad.runtimeconfig.json
+C:\Users\hp\source\repos\Filezad\bin\Debug\net6.0\Filezad.dll
+C:\Users\hp\source\repos\Filezad\bin\Debug\net6.0\Filezad.pdb
+C:\Users\hp\source\repos\Filezad\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\hp\source\repos\Filezad\obj\Debug\net6.0\Filezad.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Filezad\obj\Debug\net6.0\Filezad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Filezad\obj\Debug\net6.0\Filezad.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Filezad\obj\Debug\net6.0\Filezad.AssemblyInfo.cs
+C:\Users\hp\source\repos\Filezad\obj\Debug\net6.0\Filezad.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Filezad\obj\Debug\net6.0\Filezad.csproj.Up2Date
+C:\Users\hp\source\repos\Filezad\obj\Debug\net6.0\Filezad.dll
+C:\Users\hp\source\repos\Filezad\obj\Debug\net6.0\refint\Filezad.dll
+C:\Users\hp\source\repos\Filezad\obj\Debug\net6.0\Filezad.pdb
+C:\Users\hp\source\repos\Filezad\obj\Debug\net6.0\Filezad.genruntimeconfig.cache
+C:\Users\hp\source\repos\Filezad\obj\Debug\net6.0\ref\Filezad.dll

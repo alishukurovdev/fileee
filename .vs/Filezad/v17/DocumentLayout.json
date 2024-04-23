@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Filezad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0279572C-D16A-41B6-B86A-17DA3C4B62BD}|Filezad.csproj|c:\\users\\hp\\source\\repos\\filezad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0279572C-D16A-41B6-B86A-17DA3C4B62BD}|Filezad.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0279572C-D16A-41B6-B86A-17DA3C4B62BD}|Filezad.csproj|C:\\Users\\hp\\source\\repos\\Filezad\\file\\jsconfig1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0279572C-D16A-41B6-B86A-17DA3C4B62BD}|Filezad.csproj|solutionrelative:file\\jsconfig1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "jsconfig1.json",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Filezad\\File\\jsconfig1.json",
+              "RelativeDocumentMoniker": "File\\jsconfig1.json",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Filezad\\File\\jsconfig1.json",
+              "RelativeToolTip": "File\\jsconfig1.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-22T20:59:13.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Filezad\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Filezad\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T20:35:19.736Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
